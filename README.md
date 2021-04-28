@@ -20,7 +20,7 @@ By looking at the graph, there is one outlier principal component.
 * Class 1 group is the lowest principal component; the lowest tradable cryptocurrency.
 * Class 0 group is the mediocre principal component; an average tradable cryptocurrency.
 * Class 3 group is the highest principal component; the higher tradable cryptocurrency. <br>
-* 
+
 ![3D](https://user-images.githubusercontent.com/75437852/116323544-387e6680-a78c-11eb-82b5-9e9361e87000.PNG)<br>
 <br>
 A table was also created with the tradable cryptocurrency information.  The table can be sorted and selected based on performance.<br>
