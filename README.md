@@ -2,9 +2,9 @@
 
 This project is to provide insight to Accountability Accounting, a prominent investment bank.  The results are to assist in the decision making of offering Cryptocurrency investment portfolio to their customers.  
 <br>
-Cryptocurrency is a large market with information that can be overwhelming to identify the best model for a successful investment.  This analysis creates a report on cryptocurrencies that are actively trading on the market.  They were grouped in clusters to create a classification report for this new invesment proposal.
+Cryptocurrency is a large market with information that can be overwhelming when trying to identify the best model for a successful investment.  This analysis creates a report on cryptocurrencies that are actively trading on the market.  They were grouped in clusters to create a classification report for this new invesment proposal.
 <br>
-Since the data is so vast and unknown output, unsupervised machine learning models was used to group cryptocurrencies for clustering algorithms.  The visualizations below show the findings of the analysis. 
+Since the data is so vast and there are unknown output, unsupervised machine learning models was used to group cryptocurrencies for clustering algorithms.  The visualizations below show the findings of the analysis. 
 <br>
 <br>
 Before the data could be used in any model, the data was preprocessed and standardized to avoid the skewing of the results.  The PCA (Principal Component Analysis) statistical technique was used to reduce the dimensions to 3 components, specifically on the cryptocurrency algorithm and proof of type.  <br>
